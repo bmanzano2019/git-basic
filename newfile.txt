@@ -1,3 +1,7 @@
-sike! updated the file directly in github UI, have fun pulling
-update the contents of this file
-some contents to this file 
+git add:
+  Adds modified/new files to the staging area, ready for commit
+git commit:
+  Creates git revision and saves the files listed down in previous 'git add' command
+  Only affected your local repository
+git push:
+  Pushes the commits made in your local repository to the targetted remote repository
